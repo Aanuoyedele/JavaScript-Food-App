@@ -1,0 +1,72 @@
+{
+    "status": "success",
+    "items": [{
+            "id": 1,
+            "title": "Amala",
+            "price": 135,
+            "image": "./images/product-11.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Semo",
+            "price": 950,
+            "image": "./images/product-11.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Rice",
+            "price": 750,
+            "image": "./images/product-11.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Rice",
+            "price": 999,
+            "image": "./images/product-11.jpg"
+        },
+        {
+            "id": 5,
+            "title": "Eba",
+            "price": 250,
+            "image": "./images/product-11.jpg"
+
+        },
+        {
+            "id": 6,
+            "title": "Eba",
+            "price": 850,
+            "image": "./images/product-11.jpg"
+
+        },
+        {
+            "id": 7,
+            "title": "Semo",
+            "price": 600,
+            "image": "./images/product-11.jpg"
+        },
+        {
+            "id": 8,
+            "title": "Pounded Yam",
+            "price": 350,
+            "image": "./images/product-12.jpg"
+        },
+        {
+            "id": 9,
+            "title": "Pounded Yam",
+            "price": 799,
+            "image": "./images/product-12.jpg"
+        },
+        {
+            "id": 10,
+            "title": "The Original Super Donut",
+            "price": 150,
+            "image": "./images/product-2.jpg"
+        },
+        {
+            "id": 11,
+            "title": "The Original Super Donut",
+            "price": 650,
+            "image": "./images/product-1.jpg"
+        }
+    ]
+}
